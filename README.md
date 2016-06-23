@@ -10,3 +10,6 @@ https://github.com/daizhenjun/ImageFilterForAndroid
 
 * AlloyTeam/AlloyImage  
 https://github.com/AlloyTeam/AlloyImage  
+
+* zetbaitsu/Compressor  
+https://github.com/zetbaitsu/Compressor  
