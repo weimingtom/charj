@@ -16,3 +16,9 @@ https://github.com/zetbaitsu/Compressor
 
 * Curzibn/Luban  
 https://github.com/Curzibn/Luban  
+
+* fogleman/gg  
+https://github.com/fogleman/gg    
+
+* anthonynsimon/bild  
+https://github.com/anthonynsimon/bild  
