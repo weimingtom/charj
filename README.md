@@ -13,3 +13,6 @@ https://github.com/AlloyTeam/AlloyImage
 
 * zetbaitsu/Compressor  
 https://github.com/zetbaitsu/Compressor  
+
+* Curzibn/Luban  
+https://github.com/Curzibn/Luban  
